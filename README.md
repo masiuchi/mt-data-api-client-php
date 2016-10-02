@@ -1,4 +1,4 @@
-# mt-data-api-client-client-php
+# mt-data-api-client-php
 
 Movable Type Data API client for PHP.
 
