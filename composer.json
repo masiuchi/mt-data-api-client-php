@@ -1,10 +1,12 @@
 {
   "name": "masiuchi/mt-data-api-client-php",
+  "description": "Movable Type Data API client for PHP",
   "type": "library",
+  "license": "MIT",
   "homepage": "https://github.com/masiuchi/mt-data-api-client-php",
   "authors": [
     {
-      "name": "Masahiro Iuchi",
+      "name": "Masahiro IUCHI",
       "email": "masahiro.iuchi@gmail.com"
     }
   ],
